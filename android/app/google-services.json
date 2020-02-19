@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "545477016403",
+    "firebase_url": "https://kaa-serverside.firebaseio.com",
+    "project_id": "kaa-serverside",
+    "storage_bucket": "kaa-serverside.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545477016403:android:b6db701840e5fa4d303fa6",
+        "android_client_info": {
+          "package_name": "com.KAA.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545477016403-timkglu0f3llgnol55if898r66ugt2nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAopI6Mjp8jOOh7Rf2pinVnoPBw6V3lCnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545477016403-timkglu0f3llgnol55if898r66ugt2nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545477016403:android:f497309d89b81664303fa6",
+        "android_client_info": {
+          "package_name": "com.kaa.kenya_airports_authorities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545477016403-timkglu0f3llgnol55if898r66ugt2nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAopI6Mjp8jOOh7Rf2pinVnoPBw6V3lCnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545477016403-timkglu0f3llgnol55if898r66ugt2nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
